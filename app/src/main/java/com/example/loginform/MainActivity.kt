@@ -54,7 +54,7 @@ fun LoginScreen() {
         Spacer(modifier = Modifier.height(16.dp))
 
         Button(
-            onClick = { /* Ei mitään toiminnallisuutta tässä vaiheessa */ },
+            onClick = {  },
             modifier = Modifier.fillMaxWidth()
         ) {
             Text("Submit")
